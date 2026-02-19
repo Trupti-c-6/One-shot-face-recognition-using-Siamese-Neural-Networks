@@ -13,7 +13,7 @@ This work was published at:
 
 **6th International Conference on Emerging Technology (INCET 2025)**  
 IEEE Indexed Conference
-
+![Certificate](ml%20certificate.pdf)
 The project evaluates three Siamese Network architectures for one-shot face recognition.
 
 Final Test Accuracy: **94%**
